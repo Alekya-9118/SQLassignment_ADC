@@ -1,0 +1,10 @@
+After observing the graph created from dataset , we can clearly obeserve 
+*******Region and sales******
+->LosAngels have a massive sales followed by Philadelphia.
+->Portland has minimum sales.
+Conclusion:
+We can suggest that company should focus on sales in Portland.
+Company sales 
+******Product and Sales******
+->Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish has the highest sales among all products.
+
